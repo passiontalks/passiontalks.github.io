@@ -12,8 +12,8 @@ layout: default
 <div class="container">
 <div class="row post-full">
   <div class="col-xs-8">
-    <div class="date">
-      <span>{{ page.date | date: "%B %-d, %Y" }}</span>
+    <div class="lead">
+      <p>Posted on {{ page.date | date: "%B %-d, %Y" }} by {{ page.author }}</p>
     </div>
     <div class="content">
       {{ content }}

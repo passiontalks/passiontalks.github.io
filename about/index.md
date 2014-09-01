@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-tagline: "Short talks from academics and professionals integrating vocation, faith, and passion."
 sidebar: false
 ---
 
