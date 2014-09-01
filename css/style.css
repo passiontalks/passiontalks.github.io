@@ -6,6 +6,21 @@
  * details, see http://creativecommons.org/licenses/by/3.0/.
  */
 
+/*
+ * Theme colors:
+ * Main: 563d7c
+ * Lighter (~10%): 6f5499
+ * Darker (~5%): 463265
+ * Lighter (~45%): cdbfe3
+ */
+
+a, .pagination > li > a {
+  color: #6f5499;
+}
+
+a:hover, a:focus, .pagination > li > a:hover, .pagination > li > a:focus {
+  color: #563d7c;
+}
 
 /*
  * Scaffolding

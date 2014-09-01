@@ -15,6 +15,7 @@ description: |
   Stanford, Passion Talks is a growing platform for discussing the
   work-faith connection in all disciplines.
 pt14_url: /pt14
+pt15_url: /pt15
 
 # Navigation menu items. (Note that these a preceded by some fixed
 # items coded directly in _includes/navbar.html .)

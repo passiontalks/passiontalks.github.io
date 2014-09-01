@@ -4,9 +4,13 @@
     <p>Powered by <a href="http://jekyllrb.com/">Jekyll</a> and <a href="http://getbootstrap.com/">Bootstrap</a>.</p>
 
     <ul class="pti-footer-links muted">
-      <li><a href="{{ site.pt14_url }}">Passion Talks 2014</a></li>
+      {% for item in site.navigation %}
+        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.label }}</a></li>
+        <li>&middot;</li>
+      {% endfor %}
+      <li><a href="{{ site.pt14_url }}">PT2014</a></li>
       <li>&middot;</li>
-      <li><a href="{{ site.baseurl }}/about">About</a></li>
+      <li><a href="{{ site.pt15_url }}">PT2015</a></li>
     </ul>
   </div>
 </footer>
