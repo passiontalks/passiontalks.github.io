@@ -2,15 +2,12 @@
 layout: page
 title: About
 tagline: "Short talks from academics and professionals integrating vocation, faith, and passion."
+sidebar: false
 ---
 
-"Passion Talks" are short talks by Christian grad students, academics
-and professionals considering how their faith intersects with and
-impacts their work. Founded in 2012 by Christian grad students from UC
-Berkeley, UC Santa Cruz, UC San Francisco, and Stanford, Passion Talks
-is a growing platform for discussing the work-faith connection in all
-disciplines.
-
+<div class="lead">
+{{ site.description | markdownify }}
+</div>
 
 ## Organizing Committee
 
@@ -31,3 +28,9 @@ disciplines.
   * Paul Riggins, UC Berkeley
   * Sherol Chen, UC Santa Cruz
   * TJ Tsai, UC Berkeley
+
+## Contact Info
+
+  * Email: <passiontalksinternational@gmail.com>
+  * Facebook: <https://www.facebook.com/PassionTalks>
+  * Twitter: <https://twitter.com/Passion_Talks>

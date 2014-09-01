@@ -8,8 +8,6 @@ tagline: Connecting Work and Faith
 author:
   name: Passion Talks International
 description: |
-  ### About Passion Talks
-
   "Passion Talks" are short talks by Christian grad students,
   academics and professionals considering how their faith intersects
   with and impacts their work. Founded in 2012 by Christian grad
@@ -28,21 +26,25 @@ navigation:
 defaults:
   - scope:
       path: ""
-      type: "page" # Jekyll <= 2.2
+      type: "page" # Jekyll <= 2.2 (for GitHub Pages)
     values:
       layout: "page"
+      sidebar: true
   - scope:
       path: ""
       type: "pages" # Jekyll >= 2.3
     values:
       layout: "page"
+      sidebar: true
   - scope:
       path: ""
-      type: "post" # Jekyll <= 2.2
+      type: "post" # Jekyll <= 2.2 (for GitHub Pages)
     values:
       layout: "post"
+      sidebar: true
   - scope:
       path: ""
       type: "posts" # Jekyll >= 2.3
     values:
       layout: "post"
+      sidebar: true
