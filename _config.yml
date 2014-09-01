@@ -18,28 +18,30 @@ description: |
   work-faith connection in all disciplines.
 pt14_url: /pt14
 
+# Navigation menu items. (Note that these a preceded by some fixed
+# items coded directly in _includes/navbar.html .)
+navigation:
+  - label: About
+    url: "/about"
+
 # Content configuration defaults:
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "page" # Jekyll <= 2.2
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages" # Jekyll >= 2.3
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "post" # Jekyll <= 2.2
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts" # Jekyll >= 2.3
     values:

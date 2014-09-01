@@ -4,13 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }} | {{ site.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="{{ site.baseurl }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
     <link href="{{ site.baseurl }}/css/style.css" rel="stylesheet" type="text/css" media="all">
 
     <!-- Fav and touch icons -->
@@ -27,13 +26,7 @@
 
     {{ content }}
 
-    <div id="footer">
-      <div class="container">
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
-          Powered by <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>.
-        </p>
-      </div>
-    </div id="footer">
+    {% include footer.html %}
 
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

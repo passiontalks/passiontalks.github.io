@@ -12,21 +12,20 @@
     <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
       <ul class="nav navbar-nav">
         <li>
-          <a href="{{ site.pt14_url }}/">PT14</a>
+          <a href="{{ site.pt14_url }}/">Passion Talks 2014</a>
         </li>
-      <!--   <li class="active"> -->
-      <!--     <a href="../css">CSS</a> -->
-      <!--   </li> -->
-      <!--   <li> -->
-      <!--     <a href="../components">Components</a> -->
-      <!--   </li> -->
-      <!--   <li> -->
-      <!--     <a href="../javascript">JavaScript</a> -->
-      <!--   </li> -->
-      <!--   <li> -->
-      <!--     <a href="../customize">Customize</a> -->
-      <!--   </li> -->
-      <!-- </ul> -->
+        {% for item in site.navigation %}
+          {% assign active = nil %}
+          {% capture url_with_index %}{{ item.url }}/index.html{% endcapture %}
+          {% if page.url == item.url or page.url == url_with_index %}
+            {% assign active = 'active' %}
+          {% endif %}
+          <li class="{{ active }}">
+            <a href="{{ site.baseurl }}{{ item.url }}">{{ item.label }}</a>
+          </li>
+          {% assign active = nil %}
+        {% endfor %}
+
       <!-- <ul class="nav navbar-nav navbar-right"> -->
       <!--   <li><a href="http://expo.getbootstrap.com" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Expo');">Expo</a></li> -->
       <!--   <li><a href="http://blog.getbootstrap.com" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Blog');">Blog</a></li> -->
