@@ -12,6 +12,8 @@ Here's what we know for sure:
 -   The extended abstract submissions deadline will be end of July
 -   The conference will be a one day event with more than one track
 
+<!-- break -->
+
 [![IMG\_20130813\_183434]({{ site.pt14_url}}/2014/03/img_20130813_183434b4e7.jpg?w=551&h=413)]({{ site.pt14_url}}/2014/03/img_20130813_183434.jpg)
 
 This was the Post-Mortem meeting for Passion Talks 2013, Stanford

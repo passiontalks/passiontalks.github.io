@@ -1,6 +1,6 @@
 ---
 title: Rise up, Daniels and Esthers! (Updates on South Korea)
-author: Sherol Chen
+author: Diane Lee
 ---
 
 ffpaladin:
@@ -11,6 +11,8 @@ ffpaladin:
 > Her PhD is in Education, and she was able to use the Gospel to help
 > with serious problems of bullying in Korea. Read her story from the
 > Reclaim International blog.
+
+<!-- break -->
 
 Originally
 posted on [Reclaim

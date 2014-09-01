@@ -8,6 +8,8 @@ Diego flying into the bay area to attend this event. Within the first
 day of the Chi Alpha announcement, 110 tickets were already reserved out
 of the \~600 seats available.
 
+<!-- break -->
+
 This is the official announcement from the group hosting Heidi Baker:
 
 ------------------------------------------------------------------------

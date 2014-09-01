@@ -8,7 +8,7 @@ PM]({{ site.pt14_url}}/2014/03/screen-shot-2014-02-12-at-8-52-48-pmd274.png?w=55
 
 <!-- break -->
 
-# Connecting work and faith {.p1}
+# Connecting work and faith
 
 -   Conference Date:   **August, 23rd 2014**
 -   Submissions for talks close:   ** July 31st, 2014**
