@@ -1,0 +1,64 @@
+exclude: ["README.md", "Rakefile", "cache"]
+include: ["_static"]
+
+title: Passion Talks International
+tagline: Site Tagline
+author:
+  name: Passion Talks International
+  email: passiontalksinternational@gmail.com
+  github: username
+  twitter: Passion_Talks
+excerpt_separator: "<!-- break -->"
+
+permalink: /:year/:month/:day/:title
+
+# The production_url is only used when full-domain names are needed such as
+# sitemap.txt. Most places will/should use BASE_PATH to make the urls.
+#
+# If you have set a CNAME (pages.github.com) set your custom domain here.
+# Else if you are pushing to username.github.io, replace with your username.
+# Finally if you are pushing to a GitHub project page, include the project
+# name at the end.
+#
+production_url: http://username.github.io
+
+# Jekyll-Bootstrap specific configuration:
+#
+JB:
+  version: 0.3.0
+
+  # All links will be namespaced by BASE_PATH if defined. Links in your
+  # website should always be prefixed with {{BASE_PATH}} however this value
+  # will be dynamically changed depending on your deployment situation.
+  #
+  # CNAME (http://yourcustomdomain.com)
+  #   DO NOT SET BASE_PATH
+  #   (urls will be prefixed with "/" and work relatively)
+  #
+  # GitHub Pages (http://username.github.io)
+  #   DO NOT SET BASE_PATH
+  #   (urls will be prefixed with "/" and work relatively)
+  #
+  # GitHub Project Pages (http://username.github.io/project-name)
+  #   REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
+  BASE_PATH: false
+
+  # These paths are to the main pages Jekyll-Bootstrap ships with.
+  # Some JB helpers refer to these paths; change them here if needed.
+  #
+  archive_path: /archive.html
+  categories_path: /categories.html
+  tags_path: /tags.html
+  atom_path: /atom.xml
+  rss_path: /rss.xml
+
+  comments:
+    provider: false
+
+  analytics:
+    provider: google
+    google:
+        tracking_id: 'UA-123-12'
+
+  sharing:
+    provider: false

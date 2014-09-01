@@ -1,0 +1,141 @@
+/*
+* Homepage
+*
+* Tweaks to the custom homepage and the masthead (main jumbotron).
+*/
+/* Share masthead with page headers */
+.pt-masthead,
+.pt-header {
+position: relative;
+padding: 30px 15px;
+color: #cdbfe3;
+text-align: center;
+text-shadow: 0 1px 0 rgba(0,0,0,.1);
+background-color: #6f5499;
+background-image: -webkit-gradient(linear, left top, left bottom, from(#563d7c), to(#6f5499));
+background-image: -webkit-linear-gradient(top, #563d7c 0%, #6f5499 100%);
+background-image: -o-linear-gradient(top, #563d7c 0%, #6f5499 100%);
+background-image: linear-gradient(to bottom, #563d7c 0%, #6f5499 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#563d7c', endColorstr='#6F5499', GradientType=0);
+background-repeat: repeat-x;
+}
+/* Masthead (headings and download button) */
+.pt-masthead .pt-booticon {
+margin: 0 auto 30px;
+}
+.pt-masthead h1 {
+font-weight: 300;
+line-height: 1;
+color: #fff;
+}
+.pt-masthead .lead {
+margin: 0 auto 30px;
+font-size: 20px;
+color: #fff;
+}
+.pt-masthead .version {
+margin-top: -15px;
+margin-bottom: 30px;
+color: #9783b9;
+}
+.pt-masthead .btn {
+width: 100%;
+padding: 15px 30px;
+font-size: 20px;
+}
+@media (min-width: 480px) {
+.pt-masthead .btn {
+width: auto;
+}
+}
+@media (min-width: 768px) {
+.pt-masthead {
+padding: 80px 0;
+}
+.pt-masthead h1 {
+font-size: 60px;
+}
+.pt-masthead .lead {
+font-size: 24px;
+}
+}
+@media (min-width: 992px) {
+.pt-masthead .lead {
+width: 80%;
+font-size: 30px;
+}
+}
+
+/*
+* Page headers
+*
+* Jumbotron-esque headers at the top of every page that's not the homepage.
+*/
+/* Page headers */
+.pt-header {
+margin-bottom: 40px;
+font-size: 20px;
+}
+.pt-header h1 {
+margin-top: 0;
+color: #fff;
+}
+.pt-header p {
+margin-bottom: 0;
+font-weight: 300;
+line-height: 1.4;
+}
+.pt-header .container {
+position: relative;
+}
+@media (min-width: 768px) {
+.pt-header {
+padding-top: 60px;
+padding-bottom: 60px;
+font-size: 24px;
+text-align: left;
+}
+.pt-header h1 {
+font-size: 60px;
+line-height: 1;
+}
+}
+@media (min-width: 992px) {
+.pt-header h1,
+.pt-header p {
+margin-right: 380px;
+}
+}
+
+
+
+.pt-top-nav {
+margin-bottom: 0;
+background-color: #fff;
+border-bottom: 0;
+}
+.bs-home-nav .bs-nav-b {
+display: none;
+}
+.pt-top-nav .navbar-brand,
+.pt-top-nav .navbar-nav > li > a {
+font-weight: 500;
+color: #359b9c;
+}
+.pt-top-nav .navbar-nav > li > a:hover,
+.pt-top-nav .navbar-nav > .active > a,
+.pt-top-nav .navbar-nav > .active > a:hover {
+color: #226263;
+background-color: #f9f9f9;
+}
+.pt-top-nav .navbar-toggle .icon-bar {
+background-color: #359b9c;
+}
+.pt-top-nav .navbar-header .navbar-toggle {
+border-color: #fff;
+}
+.pt-top-nav .navbar-header .navbar-toggle:hover,
+.pt-top-nav .navbar-header .navbar-toggle:focus {
+background-color: #f9f9f9;
+border-color: #f9f9f9;
+}
