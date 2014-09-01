@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Rise up, Daniels and Esthers! (Updates on South Korea)
 author: Sherol Chen
 ---
 
-![](http://1.gravatar.com/avatar/7be7878f921ef5fd2aecc805e2b8ccb9?s=32&d=identicon&r=G)[ffpaladin](../../../../author/ffpaladin/):
+ffpaladin:
 
 > There will be an important update on Passion Talks coming within the
 > next month. The call for participation will go out late February. For
@@ -13,9 +12,7 @@ author: Sherol Chen
 > with serious problems of bullying in Korea. Read her story from the
 > Reclaim International blog.
 
-<!-- break -->
-
-![](http://2.gravatar.com/avatar/819862fe5891963a8fa7f1a5e0963e2a?s=48&d=identicon&r=G)Originally
+Originally
 posted on [Reclaim
 International](http://reclaiminternational.wordpress.com/2013/12/12/rise-up-daniels-and-esthers/):
 

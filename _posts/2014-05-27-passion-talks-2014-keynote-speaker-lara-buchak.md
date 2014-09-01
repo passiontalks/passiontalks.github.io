@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Passion Talks 2014 Keynote Speaker: Dr. Lara Buchak"
 author: Sherol Chen
 ---
@@ -7,9 +6,7 @@ author: Sherol Chen
 Keynote Speaker for the Passion Talks Conference on August 23rd is
 confirmed.
 
-<!-- break -->
-
-[![Buchakweb](../../buchakweb.jpg@w=551)](../../buchakweb.jpg)
+[![Buchakweb]({{ site.pt14_url}}/2014/05/buchakwebaed2.jpg?w=551)]({{ site.pt14_url}}/2014/05/buchakweb.jpg)
 
 ## Lara Buchak
 

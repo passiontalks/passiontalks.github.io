@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Meeting on April 13th
 author: Sherol Chen
 ---

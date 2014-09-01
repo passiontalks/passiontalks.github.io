@@ -1,11 +1,10 @@
 ---
-layout: post
 title: Passion Talks 2014 Berkeley, Call for Participation
 author: Sherol Chen
 ---
 
 [![Screen shot 2014-02-12 at 8.52.48
-PM](../../../03/screen-shot-2014-02-12-at-8-52-48-pm.png@w=551&h=551)](../../../03/screen-shot-2014-02-12-at-8-52-48-pm.png)
+PM]({{ site.pt14_url}}/2014/03/screen-shot-2014-02-12-at-8-52-48-pmd274.png?w=551&h=551)]({{ site.pt14_url}}/2014/03/screen-shot-2014-02-12-at-8-52-48-pm.png)
 
 <!-- break -->
 
@@ -25,7 +24,7 @@ Founded in 2012 by Christian grad students from UC Berkeley, UC Santa
 Cruz, UC San Francisco, and Stanford, Passion Talks is a growing
 platform for considering the work-faith connection in all disciplines.
 
-Flyer here: [PassionTalksFlyer05](../../passiontalksflyer05.pdf)
+Flyer here: [PassionTalksFlyer05]({{ site.pt14_url}}/../../passiontalksflyer05.pdf)
 
 We are suggesting a \$10 donation from each registrant.
 
@@ -38,7 +37,7 @@ disciplines, along with post-grad academics and professionals to submit
 talk proposals to this year's conference.
 
 -   [Submissions
-    here](../../../../upcoming/call-for-participation-2014/)
+    here]({{ site.pt14_url }}/upcoming/call-for-participation-2014/)
 
 ## Organizing Committee
 

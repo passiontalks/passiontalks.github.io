@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What Reclaimtalks is about
 author: Sherol Chen
 ---

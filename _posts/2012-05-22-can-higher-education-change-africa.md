@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Can Higher Education Change Africa?
 author: Sherol Chen
 ---
 
-[![](../../pemba1.jpg@w=551 "Iris Ministries' Pemba site")](../../pemba1.jpg)
-
+[![]({{ site.pt14_url}}/2012/05/pemba1aed2.jpg?w=551 "Iris Ministries' Pemba site")]({{ site.pt14_url}}/2012/05/pemba1.jpg)
 Pemba, future home(?) of a University for orphans in Mozambique
 
 <!-- break -->
@@ -125,7 +123,7 @@ equipped to educate the poor in America.
 
 What might learning at such a university look like? Well, with
 ultra-low-cost computers and electronics hardware such as One Laptop Per
-Child ([http://one.laptop.org/](http://one.laptop.org)), Raspberry Pi
+Child (<http://one.laptop.org/>), Raspberry Pi
 (<http://www.raspberrypi.org/> ) , and Arduino (
 <http://www.arduino.cc/> ), it has never before been easier to teach
 about technology in the developing world.

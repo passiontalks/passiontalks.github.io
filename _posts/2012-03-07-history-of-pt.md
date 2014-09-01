@@ -1,5 +1,4 @@
 ---
-layout: post
 title: History of PT
 author: Sherol Chen
 ---
@@ -48,8 +47,7 @@ about that experience:
 > privilege to be an integral part of the release of this "something
 > amazing."
 
-![](../../../../wp-content/uploads/2010/02/22743_733282254434_11306212_42562486_5009606_n.jpg)
-
+![]({{ site.pt14_url }}/wp-content/uploads/2010/02/22743_733282254434_11306212_42562486_5009606_n.jpg)
 Winter Retreat, Feb 2010
 
 A couple months later, was the next Winter retreat. At the time, it was
@@ -68,22 +66,20 @@ still just Stanford, Berkeley, and a couple UCSC grads.
 
 A couple months later, my friend Tess and I visited our friends at
 Stanford for Ethan's [Multi-Faith
-Forum](../../../../2010/06/stanfords-multi-faith-forum/). It was there
-that I realized our brothers and sisters at UCSF seem to be missing from
-our loosely-held-together cohort.
+Forum](http://blog.ffpaladin.com/2010/06/stanfords-multi-faith-forum/).
+It was there that I realized our brothers and sisters at UCSF seem to be
+missing from our loosely-held-together cohort.
 
-![](../../../../wp-content/uploads/2010/07/sonrise-019.jpg)
-
+![]({{ site.pt14_url }}/wp-content/uploads/2010/07/sonrise-019.jpg)
 UCSF Spring Retreat, April 2011
 
-![](../../../../wp-content/uploads/2010/11/1016101859a-1024x768.jpg)
-
+![]({{ site.pt14_url }}/wp-content/uploads/2010/11/1016101859a-1024x768.jpg)
 PhD, Masters, and Professional Students gathering from UC Berkeley, UC
 Santa Cruz, UC San Francisco, and Stanford. October 2011.
 
 That Summer, we decided to bring the schools together for an intentional
 [gathering of prayer, worship, and
-sharing](../../../../2010/11/top-aspiring-experts-and-professionals-gather-at-stanford-to-pray/).
+sharing](http://blog.ffpaladin.com/2010/11/top-aspiring-experts-and-professionals-gather-at-stanford-to-pray/).
 That event summarizes what we are doing right now pretty well. Although,
 getting all these people together was no easy task. We had about 30
 people at this event- a good distribution over discipline and schools.
@@ -98,7 +94,7 @@ people at this event- a good distribution over discipline and schools.
 > Christian endeavors, and Stanford shared about the number of different
 > groups at their school. (11/29/10)
 
-![](../../../../wp-content/uploads/2010/11/reclaim1-846x1024.png)
+![]({{ site.pt14_url }}/wp-content/uploads/2010/11/reclaim1-846x1024.png)
 
 # **2011 ------**
 
@@ -116,10 +112,9 @@ the direction I was headed towards.
 > movers. Didn't you ever dream of being part of something, of having a
 > group of crime fighting friends? We could be like the X-Men. If Henry
 > comes, I can introduce him to the other
-> X-Men ![:)](../../../../wp-includes/images/smilies/icon_smile.gif) (2/7/2011)
+> X-Men ![:)](http://blog.ffpaladin.com/wp-includes/images/smilies/icon_smile.gif) (2/7/2011)
 
-![](https://lh3.googleusercontent.com/-y0j4pMoAm4Y/TWSbtbrlWZI/AAAAAAAAIio/vZAr-vvDB50/IMG_2702.JPG)
-
+![]({{ site.pt14_url }}/-y0j4pMoAm4Y/TWSbtbrlWZI/AAAAAAAAIio/vZAr-vvDB50/IMG_2702.JPG)
 The x-men in their discussion groups. Winter Retreat, Feb 2011.
 
 > The final morning, I got to pray one more time during our last worship
@@ -132,8 +127,7 @@ The x-men in their discussion groups. Winter Retreat, Feb 2011.
 > strength from God, don't contend for the darkest and most devastating
 > problems and injustices of the world, then who will? (8/11/2011)*
 
-![](https://lh3.googleusercontent.com/-3lRh-98NKFE/TZUMJbBcaQI/AAAAAAAAKPo/keRDeco681M/s640/IMG_3713.JPG)
-
+![]({{ site.pt14_url }}/-3lRh-98NKFE/TZUMJbBcaQI/AAAAAAAAKPo/keRDeco681M/s640/IMG_3713.JPG)
 Hanging out with UCSF, March 2011.
 
 About a month after that, I email the various connections from the
@@ -166,8 +160,7 @@ do with the Winter Retreat this past month. I'll give a detailed recap
 in another post, but for now, I just want to highlight what went on this
 time.
 
-![](https://lh5.googleusercontent.com/-jurHyV_yMw8/TxXOarKBElI/AAAAAAAAVDE/tiv0kGMH1Jk/s640/IMG_5646.JPG)
-
+![]({{ site.pt14_url }}/-jurHyV_yMw8/TxXOarKBElI/AAAAAAAAVDE/tiv0kGMH1Jk/s640/IMG_5646.JPG)
 Getting dim sum with Brian and Jingyi to catch up with UCSF leaders.
 January 2012.
 
@@ -181,8 +174,7 @@ Stanford to meet with a few select leaders from each of the other 3
 schools. At this meeting we finalized details in regards to **April
 13th**.
 
-![](https://lh6.googleusercontent.com/-8FXyAH4bWNk/TyxRnm_rEMI/AAAAAAAAWeM/NSxQBl0deOg/s640/IMG_5877.JPG)
-
+![]({{ site.pt14_url }}/-8FXyAH4bWNk/TyxRnm_rEMI/AAAAAAAAWeM/NSxQBl0deOg/s640/IMG_5877.JPG)
 Meeting with leaders from UC Berkeley, UC Santa Cruz, UC San Francisco,
 and Stanford, with UC San Diego Video Chatting in. January 7, 2012.
 
@@ -196,8 +188,7 @@ dreaming the same sorts of dreams and having the tools to realize them.
 This was much like the meeting we had about 1.5 years ago with the
 initial gathering of the 4 schools.
 
-![](https://lh6.googleusercontent.com/-0UUBPItVtO0/T02ewAEoMEI/AAAAAAAAXp8/ge-d_p3mzPM/s640/IMG_6132.JPG)
-
+![]({{ site.pt14_url }}/-0UUBPItVtO0/T02ewAEoMEI/AAAAAAAAXp8/ge-d_p3mzPM/s640/IMG_6132.JPG)
 Winter Retreat meeting of 5 schools: UCB, UCSC, UCSD, UCSF, and
 Stanford. Feb 2012.
 

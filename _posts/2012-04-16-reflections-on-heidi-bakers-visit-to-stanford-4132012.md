@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Reflections on Heidi Baker's visit to Stanford, 4/13/2012
 author: Sherol Chen
 ---
@@ -12,8 +11,7 @@ and bring exceptionally renowned speakers.
 Heidi Baker's visit to Stanford was the best yet - because of its impact
 on those who came.
 
-[![](../../heidi_kneeling1.jpg@w=551 "Heidi talks at Stanford")](../../heidi_kneeling1.jpg)
-
+[![]({{ site.pt14_url}}/2012/04/heidi_kneeling1aed2.jpg?w=551 "Heidi talks at Stanford")]({{ site.pt14_url}}/2012/04/heidi_kneeling1.jpg)
 Heidi Baker shows Christlike humility in her talk at Stanford.
 
 It started with a meeting at 5pm targeted at a group of
@@ -31,8 +29,7 @@ lots of people. Wow, this is more epic than I thought! You'd think that
 history was in the making or something and people were here to capture
 it.
 
-[![](../../heidi_baker_listens_to_student.jpg@w=551 "Heidi_Baker_listens_to_student")](../../heidi_baker_listens_to_student.jpg)
-
+[![]({{ site.pt14_url}}/2012/04/heidi_baker_listens_to_studentaed2.jpg?w=551 "Heidi_Baker_listens_to_student")]({{ site.pt14_url}}/2012/04/heidi_baker_listens_to_student.jpg)
 Heidi Baker and the rest of us listen to each one share about their
 calling and passion for God's kingdom
 
@@ -48,8 +45,7 @@ Finally it began. Sherol gave a brief introduction about who we were,
 our history, and what we were about, and passed out booklets - very
 fancy!
 
-[![](../../reclaimtalks_booklets.jpg@w=551 "ReClaimTalks_booklets")](../../reclaimtalks_booklets.jpg)
-
+[![]({{ site.pt14_url}}/2012/04/reclaimtalks_bookletsaed2.jpg?w=551 "ReClaimTalks_booklets")]({{ site.pt14_url}}/2012/04/reclaimtalks_booklets.jpg)
 Sherol made booklets describing our history and what we're about, and
 the ReClaimTalks project.
 
@@ -160,8 +156,7 @@ At the event venue, we whisked Heidi to a back room where she could have
 some alone time with God before her talk. She stopped however to pray
 with the worship team beforehand.
 
-[![](../../heidi_baker_worship_team_prayer.jpg@w=551 "Heidi_baker_worship_team_prayer")](../../heidi_baker_worship_team_prayer.jpg)
-
+[![]({{ site.pt14_url}}/2012/04/heidi_baker_worship_team_prayeraed2.jpg?w=551 "Heidi_baker_worship_team_prayer")]({{ site.pt14_url}}/2012/04/heidi_baker_worship_team_prayer.jpg)
 Heidi Baker prays with the worship team before the event. I wonder what
 the venue's sound guy in the background was thinking when he saw this ...
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Living our Dream
 author: Janet Payne / Peter Payne
 ---

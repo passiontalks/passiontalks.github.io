@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Stanford's Sponsoring Group, Chi Alpha, Makes the Official Heidi Baker Announcement
 author: Sherol Chen
 ---
@@ -9,11 +8,9 @@ Diego flying into the bay area to attend this event. Within the first
 day of the Chi Alpha announcement, 110 tickets were already reserved out
 of the \~600 seats available.
 
-<!-- break -->
-
 This is the official announcement from the group hosting Heidi Baker:
 
-* * * * *
+------------------------------------------------------------------------
 
 Chi Alphans,
 
@@ -51,10 +48,10 @@ P.S. Although the tickets are free, we will ask for a
 voluntary, pressure-free \$10 donation at the door - all proceeds beyond
 our expenses will go to Iris Ministries.
 
-Official PDF flyer: [Event Poster](../../event-poster.pdf)
+Official PDF flyer: [Event Poster]({{ site.pt14_url}}/2012/04/event-poster.pdf)
 
 Facebook Event: <https://www.facebook.com/events/419446308082017/>
 
 Please email <chialpha@stanford.edu> to reserve tickets.
 
-[![](../../event-poster.png@w=551 "Event Poster")](../../event-poster.png)
+[![]({{ site.pt14_url}}/2012/04/event-posteraed2.png?w=551 "Event Poster")]({{ site.pt14_url}}/2012/04/event-poster.png)

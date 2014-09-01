@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Who is Heidi Baker?
 author: Sherol Chen
 ---
@@ -32,11 +31,11 @@ You do not have to be a student to attend.
 Please email chialpha@stanford.edu to reserve tickets.
 
 Official Flyer:
-[http://passiontalks.files.wordpress.com/2012/04/event-poster.pdf](../../event-poster.pdf)
+[http://passiontalks.files.wordpress.com/2012/04/event-poster.pdf]({{ site.pt14_url }}/2012/04/event-poster.pdf)
 
 Facebook event: <http://www.facebook.com/events/419446308082017/>
 
-[![](../../heidibaker.jpg@w=406&h=305 "heidibaker")](../../heidibaker.jpg)
+[![]({{ site.pt14_url}}/2012/04/heidibakere67a.jpg?w=406&h=305 "heidibaker")]({{ site.pt14_url}}/2012/04/heidibaker.jpg)
 
 Here is more of her story...
 

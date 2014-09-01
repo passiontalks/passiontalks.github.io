@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Designs by Kathleen Kralowec - Our Passion Talks Logo
 author: Sherol Chen
 ---
@@ -15,52 +14,35 @@ designed by [Kathleen](http://kkralowec.prosite.com/).
 <!-- break -->
 
 [![Screen Shot 2013-04-15 at 11.17.37
-PM](../../screen-shot-2013-04-15-at-11-17-37-pm.png@w=150&h=90)](screen-shot-2013-04-15-at-11-17-37-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-17-37-pmb05f.png?w=150&h=90)](screen-shot-2013-04-15-at-11-17-37-pm/)
 [![Screen Shot 2013-04-15 at 11.17.44
-PM](../../screen-shot-2013-04-15-at-11-17-44-pm.png@w=150&h=119)](screen-shot-2013-04-15-at-11-17-44-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-17-44-pm6ecd.png?w=150&h=119)](screen-shot-2013-04-15-at-11-17-44-pm/)
 [![Screen Shot 2013-04-15 at 11.17.58
-PM](../../screen-shot-2013-04-15-at-11-17-58-pm.png@w=150&h=121)](screen-shot-2013-04-15-at-11-17-58-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-17-58-pm8b6f.png?w=150&h=121)](screen-shot-2013-04-15-at-11-17-58-pm/)
 \
-
 [![Screen Shot 2013-04-15 at 11.18.05
-PM](../../screen-shot-2013-04-15-at-11-18-05-pm.png@w=150&h=116)](screen-shot-2013-04-15-at-11-18-05-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-18-05-pmc077.png?w=150&h=116)](screen-shot-2013-04-15-at-11-18-05-pm/)
 [![Screen Shot 2013-04-15 at 11.18.14
-PM](../../screen-shot-2013-04-15-at-11-18-14-pm.png@w=150&h=113)](screen-shot-2013-04-15-at-11-18-14-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-18-14-pm22e0.png?w=150&h=113)](screen-shot-2013-04-15-at-11-18-14-pm/)
 [![Screen Shot 2013-04-15 at 11.18.24
-PM](../../screen-shot-2013-04-15-at-11-18-24-pm.png@w=150&h=132)](screen-shot-2013-04-15-at-11-18-24-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-18-24-pm8bb6.png?w=150&h=132)](screen-shot-2013-04-15-at-11-18-24-pm/)
 \
-
 [![Screen Shot 2013-04-15 at 11.18.31
-PM](../../screen-shot-2013-04-15-at-11-18-31-pm.png@w=150&h=130)](screen-shot-2013-04-15-at-11-18-31-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-18-31-pme776.png?w=150&h=130)](screen-shot-2013-04-15-at-11-18-31-pm/)
 [![Screen Shot 2013-04-15 at 11.18.39
-PM](../../screen-shot-2013-04-15-at-11-18-39-pm.png@w=150&h=124)](screen-shot-2013-04-15-at-11-18-39-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-18-39-pmcb70.png?w=150&h=124)](screen-shot-2013-04-15-at-11-18-39-pm/)
 [![Screen Shot 2013-04-15 at 11.18.47
-PM](../../screen-shot-2013-04-15-at-11-18-47-pm.png@w=150&h=126)](screen-shot-2013-04-15-at-11-18-47-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-18-47-pm277a.png?w=150&h=126)](screen-shot-2013-04-15-at-11-18-47-pm/)
 \
-
 [![Screen Shot 2013-04-15 at 11.18.55
-PM](../../screen-shot-2013-04-15-at-11-18-55-pm.png@w=150&h=138)](screen-shot-2013-04-15-at-11-18-55-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-18-55-pm2580.png?w=150&h=138)](screen-shot-2013-04-15-at-11-18-55-pm/)
 [![Screen Shot 2013-04-15 at 11.19.02
-PM](../../screen-shot-2013-04-15-at-11-19-02-pm.png@w=150&h=91)](screen-shot-2013-04-15-at-11-19-02-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-19-02-pmc23f.png?w=150&h=91)](screen-shot-2013-04-15-at-11-19-02-pm/)
 [![Screen Shot 2013-04-15 at 11.19.08
-PM](../../screen-shot-2013-04-15-at-11-19-08-pm.png@w=150&h=91)](screen-shot-2013-04-15-at-11-19-08-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-19-08-pmc23f.png?w=150&h=91)](screen-shot-2013-04-15-at-11-19-08-pm/)
 \
-
 [![Screen Shot 2013-04-15 at 11.19.14
-PM](../../screen-shot-2013-04-15-at-11-19-14-pm.png@w=150&h=94)](screen-shot-2013-04-15-at-11-19-14-pm/)
-
+PM]({{ site.pt14_url}}/2013/04/screen-shot-2013-04-15-at-11-19-14-pm1f06.png?w=150&h=94)](screen-shot-2013-04-15-at-11-19-14-pm/)
 \
 
 Here's some more feedback from Wendy:

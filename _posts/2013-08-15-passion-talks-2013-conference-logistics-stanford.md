@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Passion Talks 2013 Conference Logistics @ Stanford
 author: Sherol Chen
 ---
@@ -18,7 +17,7 @@ following information:
 
 2\. Lunch/Dinner/Dietary Needs
 
-[![escondido](../../escondido.png@w=551&h=275)](../../escondido.png)
+[![escondido]({{ site.pt14_url}}/2013/08/escondidoccdb.png?w=551&h=275)]({{ site.pt14_url}}/2013/08/escondido.png)
 
 Location: 750 Escondido Road, Stanford Campus
 
@@ -26,7 +25,7 @@ Registration will be in the Havana room and will begin at 8:30.
 
 Refreshments will be served at 9 am immediately followed by the opening
 remarks then keynote Speaker. Information is continually being updated
-at: <http://www.passiontalks.org>
+at: [http://www.passiontalks.org](http://www.passiontalks.org/)
 
 It's still not too late to register, so please let your friends know. If
 people show up the day of the event without registration, there will not
@@ -42,4 +41,4 @@ Recommended donation is \$10 per person.
 
 Thanks so much for participating and get ready to dream BIG!
 
-[![esc](../../esc.png@w=551&h=319)](../../esc.png)
+[![esc]({{ site.pt14_url}}/2013/08/escc20e.png?w=551&h=319)]({{ site.pt14_url}}/2013/08/esc.png)

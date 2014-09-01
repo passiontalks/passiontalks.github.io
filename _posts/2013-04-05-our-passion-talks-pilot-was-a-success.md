@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Our Passion Talks Pilot Was a Success!
 author: Sherol Chen
 ---
@@ -17,8 +16,7 @@ people signed up, (5) I formatted their abstracts/bios into a nice 2
 page PDF.
 
 ![PT
-audience](https://lh5.googleusercontent.com/-md1nVGVzDOA/UTLnqHqOg9I/AAAAAAAAvMw/tMmrUCXBkFU/s640/IMG_2057.JPG)
-
+audience]({{ site.pt14_url }}/-md1nVGVzDOA/UTLnqHqOg9I/AAAAAAAAvMw/tMmrUCXBkFU/s640/IMG_2057.JPG)
 PhD Students from Stanford, Berkeley, and UCSC gather to watch the
 Passion Talks
 
@@ -37,8 +35,7 @@ Grad students, especially, are quite cynical when it comes to unfamiliar
 or new things. As you can see, I can be quite cynical about grad
 students (haha). Before I knew it, the room was nearly full.
 
-![](https://lh6.googleusercontent.com/-1J9uraW_4uo/UTLnrCT3V5I/AAAAAAAAvM4/74W2OqUw9co/s640/IMG_2058.JPG "Speakers gave talks about entrepreneurship, start ups, open source software, video games, and neuroscience ")
-
+![]({{ site.pt14_url }}/-1J9uraW_4uo/UTLnrCT3V5I/AAAAAAAAvM4/74W2OqUw9co/s640/IMG_2058.JPG "Speakers gave talks about entrepreneurship, start ups, open source software, video games, and neuroscience ")
 Speakers gave talks about entrepreneurship, start ups, open source
 software, video games, and neuroscience
 
@@ -60,8 +57,7 @@ permission, and wait for the invitation to speak about the passions in
 our lives.
 
 ![passion talk
-notes](https://lh5.googleusercontent.com/-4hFweMHZS4w/UTLnvk9I6yI/AAAAAAAAvNo/ftV1LS-4rFk/s640/IMG_2065.JPG)
-
+notes]({{ site.pt14_url }}/-4hFweMHZS4w/UTLnvk9I6yI/AAAAAAAAvNo/ftV1LS-4rFk/s640/IMG_2065.JPG)
 Someone was taking notes
 
 That's what Passion Talks is- the invitation to explain to others why we
@@ -78,8 +74,7 @@ I've had in the last three years for this vision. It seemed like each
 year, we'd barely inch forward.
 
 ![lunch
-discussion](https://lh6.googleusercontent.com/--Y6wti4g-uU/UTLnw6couKI/AAAAAAAAvNw/rRiYs1qEt78/s640/IMG_2066.JPG)
-
+discussion]({{ site.pt14_url }}/--Y6wti4g-uU/UTLnw6couKI/AAAAAAAAvNw/rRiYs1qEt78/s640/IMG_2066.JPG)
 Dinner after the passion talks
 
 If you go to the main page of the site, you will find the Call For
@@ -95,8 +90,7 @@ As far as other similar events, check out:
 -   soulbiographies.com
 
 ![speakers
-dinner](https://lh3.googleusercontent.com/-T9NglSgFBy0/UTLn4aP_B0I/AAAAAAAAvOg/iMW0uANmVQM/s640/IMG_2072.JPG)
-
+dinner]({{ site.pt14_url }}/-T9NglSgFBy0/UTLn4aP_B0I/AAAAAAAAvOg/iMW0uANmVQM/s640/IMG_2072.JPG)
 Some of the speakers exchanging ideas with one another
 
 Shortly after the conference, I got this message from Wendy:
@@ -125,14 +119,13 @@ Shortly after the conference, I got this message from Wendy:
 
 See you all in July!
 
-![](https://lh6.googleusercontent.com/-yfLWlTypMbY/UTLnhIHL5lI/AAAAAAAAvL4/nNK_r58c2Gw/s640/IMG_2050.JPG)
-
+![]({{ site.pt14_url }}/-yfLWlTypMbY/UTLnhIHL5lI/AAAAAAAAvL4/nNK_r58c2Gw/s640/IMG_2050.JPG)
 ... and one my favorites- Music!
 
 Here's the general announcement that went out: [Winter Conf 2013
-Slide](../../winter-conf-2013-slide.pdf)
+Slide]({{ site.pt14_url}}/2013/04/winter-conf-2013-slide.pdf)
 
 Here's the program of
-talks: [passiontalks2013](../../passiontalks2013.pdf)
+talks: [passiontalks2013]({{ site.pt14_url}}/2013/04/passiontalks2013.pdf)
 
-![Pikachu](https://lh4.googleusercontent.com/-OPjZTsVfb8I/UTLnt1G6PDI/AAAAAAAAvNY/x5Umb6cI6C0/s512/IMG_2062.JPG)
+![Pikachu]({{ site.pt14_url }}/-OPjZTsVfb8I/UTLnt1G6PDI/AAAAAAAAvNY/x5Umb6cI6C0/s512/IMG_2062.JPG)

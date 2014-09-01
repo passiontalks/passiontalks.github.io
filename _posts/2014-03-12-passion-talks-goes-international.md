@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Passion Talks Goes International
 author: Sherol Chen
 ---
@@ -8,7 +7,7 @@ On January 20th, an e-mail went out, titled, "What makes a good Passion
 Talk." Such conferences are popping up around the world. So, in a effort
 to build the Passion Talks Community there is a page on this [website to
 collect information about Passion Talk
-events](../../../../passion-talks-international/).
+events]({{ site.pt14_url }}/passion-talks-international/).
 
 <!-- break -->
 

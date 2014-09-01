@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Register for Passion Talks 2014 at Berkeley
 author: Sherol Chen
 ---
@@ -7,23 +6,23 @@ author: Sherol Chen
 We are excited to announce a tentative schedule for all our talks. See
 the listing below.
 
-<!-- break -->
-
-[![campus](../../campus.jpg@w=551&h=366)](../../campus.jpg)
+[![campus]({{ site.pt14_url}}/2014/08/campusc665.jpg?w=551&h=366)]({{ site.pt14_url}}/2014/08/campus.jpg)
 
 Register to attend the Passion Talks Conference on August 23rd.
 
 <https://www.eventbrite.com/e/passion-talks-14-tickets-12464169667>
 
 Travel information can be found
-here: [http://passiontalks.wordpress.com/travel/](../../../../travel/)
+here: [http://pt14.passiontalks.org/travel/]({{ site.pt14_url }}/travel/)
 
 There will be a \$10 suggested donation for food and other expenses.
 
-More detailed schedule:
-[http://passiontalks.wordpress.com/upcoming/schedule/](../../../../travel/)
+<!-- break -->
 
-* * * * *
+More detailed schedule:
+[http://pt14.passiontalks.org/upcoming/schedule/]({{ site.pt14_url }}/upcoming/schedule/)
+
+------------------------------------------------------------------------
 
 **Session I Talks**
 
@@ -76,9 +75,3 @@ Track 2 - Culture and Society
 -     3:20 -  3:40 : Do You See What I See? : The Importance of Vision
     in My Intellectual, Professional and Faith Life
 -     3:40 - 4:00 : Rethinking Urban Informality
-
-* * * * *
-
-**Keynote Speaker: Dr. Lara Buchak**
-
-[http://passiontalks.wordpress.com/2014/05/27/passion-talks-2014-keynote-speaker-lara-buchak/](../../../05/27/passion-talks-2014-keynote-speaker-lara-buchak/)
