@@ -1,10 +1,10 @@
 {% if page.sidebar %}
 <div class="pti-sidebar hidden-print hidden-xs hidden-sm">
-  <h3><a href="{{ site.baseurl }}/about/">About</a></h3>
+  <h3><a href="{{ site.baseurl }}/about">About</a></h3>
 
   {{ site.description | markdownify }}
 
-<h3>Archive</h3>
+<h3><a href="{{ site.baseurl }}/archive">Archive</a></h3>
 
   <ul class="nav pti-sidenav">
   {% assign last_year = nil %}{% assign year = nil %}
