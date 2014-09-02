@@ -11,6 +11,6 @@ tagline: "Connecting Work and Faith | Conference: August 23rd, 2014, Berkeley"
 
   {{ post.excerpt }}
 
-  [Read more...]({{ post.url}})
+  <a href="{{ site.baseurl }}{{ post.url }}">Read more&hellip;</a>
 </div>
 {% endfor %}

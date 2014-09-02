@@ -9,6 +9,6 @@ title: Archive
 
   {{ post.excerpt }}
 
-  [Read more...]({{ post.url}})
+  <a href="{{ site.baseurl }}{{ post.url }}">Read more&hellip;</a>
 </div>
 {% endfor %}
