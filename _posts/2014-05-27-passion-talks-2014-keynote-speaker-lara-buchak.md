@@ -8,7 +8,7 @@ confirmed.
 
 [![Buchakweb]({{ site.pt14_url}}/2014/05/buchakwebaed2.jpg?w=551)]({{ site.pt14_url}}/2014/05/buchakweb.jpg)
 
-## Lara Buchak
+**Lara Buchak**
 
 Assistant Professor of Philosophy
 
