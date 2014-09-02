@@ -6,9 +6,11 @@ tagline: "Connecting Work and Faith | Conference: August 23rd, 2014, Berkeley"
 ---
 
 {% for post in site.posts %}
+<div class="row">
   <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
   {{ post.excerpt }}
 
   [Read more...]({{ post.url}})
+</div>
 {% endfor %}

@@ -11,6 +11,16 @@
     </div>
     <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
       <ul class="nav navbar-nav">
+        {% assign active = nil %}
+        {% capture url_with_index %}/index.html{% endcapture %}
+        {% if page.url == "/" or page.url == "/index.html" or page.content_type == "post" %}
+          {% assign active = 'active' %}
+        {% endif %}
+        <li class="{{ active }}">
+          <a href="{{ site.baseurl }}/">Blog</a>
+        </li>
+        {% assign active = nil %}
+
         {% for item in site.navigation %}
           {% assign active = nil %}
           {% capture url_with_index %}{{ item.url }}/index.html{% endcapture %}

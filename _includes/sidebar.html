@@ -1,6 +1,35 @@
 {% if page.sidebar %}
-<h3><a href="{{ site.baseurl }}/about/">About Passion Talks</a></h3>
+<div class="pti-sidebar hidden-print hidden-xs hidden-sm">
+  <h3><a href="{{ site.baseurl }}/about/">About</a></h3>
 
-{{ site.description | markdownify }}
+  {{ site.description | markdownify }}
+
+<h3>Archive</h3>
+
+  <ul class="nav pti-sidenav">
+  {% assign last_year = nil %}{% assign year = nil %}
+  {% for post in site.posts %}
+    {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% if year != last_year %}
+      {% if !last_year %}</li></ul>{% endif %}
+      <li class="active"><span>{{ year }}</span>
+      <ul class="nav">
+    {% endif %}
+
+    {% assign active = nil %}
+    {% capture url_with_index %}{{ post.url }}/index.html{% endcapture %}
+    {% if page.url == post.url or page.url == url_with_index %}
+      {% assign active = 'active' %}
+    {% endif %}
+
+    <li class="{{ active }}"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% assign last_year = year %}
+  {% endfor %}
+  {% if last_year %}
+    </li></ul>
+  {% endif %}
+  {% assign last_year = nil %}{% assign year = nil %}
+  </ul>
+</div>
 
 {% endif %}

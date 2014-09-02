@@ -482,12 +482,24 @@ body {
 }
 
 /* All levels of nav */
+.pti-sidebar .nav > li > span {
+  display: block;
+  padding: 6px 20px;
+  /* font-size: 13px; */
+  font-weight: 500;
+  color: #333;
+
+  padding-left: 18px;
+  font-weight: bold;
+  color: #333;
+  background-color: transparent;
+  border-left: 2px solid #333;
+}
 .pti-sidebar .nav > li > a {
   display: block;
-  padding: 4px 20px;
-  font-size: 13px;
+  padding: 6px 20px;
   font-weight: 500;
-  color: #999;
+  color: #6f5499;
 }
 .pti-sidebar .nav > li > a:hover,
 .pti-sidebar .nav > li > a:focus {
@@ -513,10 +525,10 @@ body {
   padding-bottom: 10px;
 }
 .pti-sidebar .nav .nav > li > a {
-  padding-top: 1px;
-  padding-bottom: 1px;
+  padding-top: 2px;
+  padding-bottom: 2px;
   padding-left: 30px;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: normal;
 }
 .pti-sidebar .nav .nav > li > a:hover,
@@ -537,7 +549,7 @@ body {
   padding: 4px 10px;
   margin-top: 10px;
   margin-left: 10px;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 500;
   color: #999;
 }
