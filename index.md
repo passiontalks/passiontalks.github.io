@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Passion Talks 2014
-title_url: /pt14
+title_url: http://pt14.passiontalks.org/
 tagline: "Connecting Work and Faith | Conference: August 23rd, 2014, Berkeley"
 ---
 
